@@ -1,0 +1,42 @@
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Requisición de Compras.exe
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Requisición de Compras.pdb
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Entidades.dll
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Manejadores.dll
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Acceso_Datos.dll
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\MySql.Data.dll
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\System.Memory.dll
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\System.Numerics.Vectors.dll
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\System.Buffers.dll
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Entidades.pdb
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Manejadores.pdb
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Acceso_Datos.pdb
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Acceso_Datos.dll.config
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\MySql.Data.xml
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\System.Memory.xml
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\System.Numerics.Vectors.xml
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\System.Buffers.xml
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.csproj.AssemblyReference.cache
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.csproj.SuggestedBindingRedirects.cache
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.FrmBusqueda.resources
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.FrmDatos.resources
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.FrmLogin.resources
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.FrmMenu.resources
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.FrmMUsuarios.resources
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.FrmRequisicion.resources
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.FrmSolicitud.resources
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.FrmSolicitudes.resources
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.FrmUsuarios.resources
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.Properties.Resources.resources
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.csproj.GenerateResource.cache
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.csproj.CoreCompileInputs.cache
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.csproj.CopyComplete
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Requisición de Compras.exe
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Requisición de Compras.pdb
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Requisición de Compras.exe.manifest
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Requisición de Compras.application
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Requisición de Compras.exe.manifest
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Requisición de Compras.application

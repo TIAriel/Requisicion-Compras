@@ -1,0 +1,6 @@
+C:\Users\GS-TI\Desktop\Compras\Entidades\bin\Release\Entidades.dll
+C:\Users\GS-TI\Desktop\Compras\Entidades\bin\Release\Entidades.pdb
+C:\Users\GS-TI\Desktop\Compras\Entidades\obj\Release\Entidades.csproj.AssemblyReference.cache
+C:\Users\GS-TI\Desktop\Compras\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GS-TI\Desktop\Compras\Entidades\obj\Release\Entidades.dll
+C:\Users\GS-TI\Desktop\Compras\Entidades\obj\Release\Entidades.pdb
