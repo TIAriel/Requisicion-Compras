@@ -47,7 +47,7 @@ namespace Acceso_Datos
             finally { conexion.Close(); }
         }
 
-        public void AbrirPDF(int ID)
+        public void AbrirPDF(int ID, string nombre_archivo)
         {
             try
             {
@@ -61,11 +61,18 @@ namespace Acceso_Datos
                 if (reader.Read())
                 {
                     byte[] contenidoPDF = (byte[])reader["contenidoArchivo"];
+                    string filename = nombre_archivo;
 
-                    string rutaTemporalPDF = Path.GetTempFileName() + ".pdf";
-                    File.WriteAllBytes(rutaTemporalPDF, contenidoPDF);
+                    string tempFilePath = Path.Combine(Path.GetTempPath(), filename);
+                    File.WriteAllBytes(tempFilePath, contenidoPDF);
 
-                    System.Diagnostics.Process.Start(rutaTemporalPDF);
+                    System.Diagnostics.Process.Start(tempFilePath);
+                    
+                    
+                    //string rutaTemporalPDF = Path.GetTempFileName() + ".pdf";
+                    //File.WriteAllBytes(rutaTemporalPDF, contenidoPDF);
+
+                    //System.Diagnostics.Process.Start(rutaTemporalPDF);
                 }
                 else
                 {

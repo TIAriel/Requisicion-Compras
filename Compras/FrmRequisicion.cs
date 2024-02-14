@@ -141,14 +141,16 @@ namespace Compras
         private void dtgArchivos_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             int ID = int.Parse(dtgArchivos.CurrentRow.Cells["ID"].Value.ToString());
-            ma.AbrirPDF(ID);
+            string Nombre = dtgArchivos.CurrentRow.Cells["Archivo"].Value.ToString();
+            ma.AbrirPDF(ID, Nombre);
         }
 
         private void btnAdjuntar_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
 
-            openFileDialog.Filter = "Archivos PDF|*.pdf";
+            openFileDialog.Filter = "Todos los archivos (*.*)|*.*";
+
 
             if (openFileDialog.ShowDialog() == DialogResult.OK)
             {

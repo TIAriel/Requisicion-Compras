@@ -1,8 +1,6 @@
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.csproj.AssemblyReference.cache
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.csproj.SuggestedBindingRedirects.cache
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.csproj.CoreCompileInputs.cache
-C:\Users\GS-TI\Desktop\Compras\Compras\bin\Debug\Compras.exe
-C:\Users\GS-TI\Desktop\Compras\Compras\bin\Debug\Compras.pdb
 C:\Users\GS-TI\Desktop\Compras\Compras\bin\Debug\Manejadores.dll
 C:\Users\GS-TI\Desktop\Compras\Compras\bin\Debug\Acceso_Datos.dll
 C:\Users\GS-TI\Desktop\Compras\Compras\bin\Debug\MySql.Data.dll
@@ -23,8 +21,6 @@ C:\Users\GS-TI\Desktop\Compras\Compras\bin\Debug\System.Buffers.xml
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.FrmLogin.resources
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.csproj.GenerateResource.cache
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.csproj.CopyComplete
-C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.exe
-C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.pdb
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.FrmMenu.resources
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.FrmSolicitudes.resources
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.FrmDatos.resources
@@ -36,3 +32,11 @@ C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.FrmMUsuarios.resources
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.FrmSolicitud.resources
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.FrmUsuarios.resources
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Compras.FrmBusqueda.resources
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Debug\Requisición de Compras.exe.manifest
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Debug\Requisición de Compras.application
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Debug\Requisición de Compras.exe
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Debug\Requisición de Compras.pdb
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Requisición de Compras.exe.manifest
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Requisición de Compras.application
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Requisición de Compras.exe
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Debug\Requisición de Compras.pdb

@@ -42,9 +42,9 @@
             this.buscarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiCerrarSesion = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.pnlPrincipal = new System.Windows.Forms.Panel();
             this.pbxMinimizar = new System.Windows.Forms.PictureBox();
             this.pbxCerrar = new System.Windows.Forms.PictureBox();
+            this.pnlPrincipal = new System.Windows.Forms.Panel();
             this.panel2.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -172,14 +172,6 @@
             this.panel1.Size = new System.Drawing.Size(700, 27);
             this.panel1.TabIndex = 29;
             // 
-            // pnlPrincipal
-            // 
-            this.pnlPrincipal.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.pnlPrincipal.Location = new System.Drawing.Point(0, 60);
-            this.pnlPrincipal.Name = "pnlPrincipal";
-            this.pnlPrincipal.Size = new System.Drawing.Size(700, 440);
-            this.pnlPrincipal.TabIndex = 31;
-            // 
             // pbxMinimizar
             // 
             this.pbxMinimizar.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -204,6 +196,14 @@
             this.pbxCerrar.TabIndex = 22;
             this.pbxCerrar.TabStop = false;
             this.pbxCerrar.Click += new System.EventHandler(this.pbxCerrar_Click);
+            // 
+            // pnlPrincipal
+            // 
+            this.pnlPrincipal.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.pnlPrincipal.Location = new System.Drawing.Point(0, 60);
+            this.pnlPrincipal.Name = "pnlPrincipal";
+            this.pnlPrincipal.Size = new System.Drawing.Size(700, 440);
+            this.pnlPrincipal.TabIndex = 31;
             // 
             // FrmMenu
             // 

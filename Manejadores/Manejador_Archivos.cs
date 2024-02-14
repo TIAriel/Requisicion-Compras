@@ -17,9 +17,9 @@ namespace Manejadores
             aa.GuardarArchivo(nombre, contenido, idSolicitud);
         }
 
-        public void AbrirPDF(int ID)
+        public void AbrirPDF(int ID, string nombre_archivo)
         {
-            aa.AbrirPDF(ID);
+            aa.AbrirPDF(ID, nombre_archivo);
         }
 
         public void MostrarPDF(DataGridView tabla, int ID)
