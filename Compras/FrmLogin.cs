@@ -15,7 +15,7 @@ namespace Compras
     {
         Manejador_Login ml;
         public static string filtro = "", estatus = "", user = "";
-        public static Boolean comite = false, requisicion, requisicionc, usuario, empresa, au, re, pe, bu;
+        public static Boolean requisicion, requisicionc, usuario, empresa, au, re, pe, bu;
 
         public FrmLogin()
         {

@@ -67,21 +67,15 @@ namespace Acceso_Datos
                     File.WriteAllBytes(tempFilePath, contenidoPDF);
 
                     System.Diagnostics.Process.Start(tempFilePath);
-                    
-                    
-                    //string rutaTemporalPDF = Path.GetTempFileName() + ".pdf";
-                    //File.WriteAllBytes(rutaTemporalPDF, contenidoPDF);
-
-                    //System.Diagnostics.Process.Start(rutaTemporalPDF);
                 }
                 else
                 {
-                    MessageBox.Show("No se encontró el archovo PDF en la base de datos.");
+                    MessageBox.Show("No se encontró el archivo seleccionado ");
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error al mostrar el archivo PDF desde la base de datos: " + ex.Message);
+                MessageBox.Show("Error al mostrar el archivo desde la base de datos: " + ex.Message);
             }
             finally
             {

@@ -351,12 +351,12 @@
             // 
             this.btnAdjuntar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(249)))), ((int)(((byte)(251)))), ((int)(((byte)(251)))));
             this.btnAdjuntar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnAdjuntar.Location = new System.Drawing.Point(425, 260);
+            this.btnAdjuntar.Location = new System.Drawing.Point(432, 269);
             this.btnAdjuntar.Margin = new System.Windows.Forms.Padding(4);
             this.btnAdjuntar.Name = "btnAdjuntar";
-            this.btnAdjuntar.Size = new System.Drawing.Size(103, 78);
+            this.btnAdjuntar.Size = new System.Drawing.Size(89, 73);
             this.btnAdjuntar.TabIndex = 6;
-            this.btnAdjuntar.Text = "Adjuntar Archivo(.pdf)";
+            this.btnAdjuntar.Text = "Adjuntar Archivos";
             this.btnAdjuntar.UseVisualStyleBackColor = false;
             this.btnAdjuntar.Click += new System.EventHandler(this.btnAdjuntar_Click);
             // 

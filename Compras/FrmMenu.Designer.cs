@@ -74,6 +74,7 @@
             this.menuStrip1.Size = new System.Drawing.Size(700, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // tsmiUsuario
             // 
@@ -87,14 +88,14 @@
             // tsmiNuevoU
             // 
             this.tsmiNuevoU.Name = "tsmiNuevoU";
-            this.tsmiNuevoU.Size = new System.Drawing.Size(180, 22);
+            this.tsmiNuevoU.Size = new System.Drawing.Size(171, 22);
             this.tsmiNuevoU.Text = "Agregar Nuevo";
             this.tsmiNuevoU.Click += new System.EventHandler(this.tsmiNuevoU_Click);
             // 
             // tsmiMostrarU
             // 
             this.tsmiMostrarU.Name = "tsmiMostrarU";
-            this.tsmiMostrarU.Size = new System.Drawing.Size(180, 22);
+            this.tsmiMostrarU.Size = new System.Drawing.Size(171, 22);
             this.tsmiMostrarU.Text = "Ver Todos";
             this.tsmiMostrarU.Click += new System.EventHandler(this.tsmiMostrarU_Click);
             // 
@@ -171,6 +172,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(700, 27);
             this.panel1.TabIndex = 29;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // pbxMinimizar
             // 
