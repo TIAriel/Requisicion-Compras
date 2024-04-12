@@ -4,7 +4,7 @@
   <description asmv2:iconFile="Icono.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Requisición de Compras" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="Requisición de Compras" version="5.1.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="Requisición de Compras.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -50,7 +50,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>K8KoQvYTESYPid17HfSkhwLkat2w8xI03jU0HPSFmp8=</dsig:DigestValue>
+        <dsig:DigestValue>fzh1HCRxJ0G6l33PB/cl0keFxy57lNZMXKGFGSW45JY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,7 +86,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QO+RjDTlNgYFxIXfj+Znp/VvaEGuNEJcG9k5zxZFsYo=</dsig:DigestValue>
+        <dsig:DigestValue>Q5qWmxcmswRJRtnz2l4lFEoDr/6ast87zgWJEs/xU5Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -103,14 +103,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Requisición de Compras.exe" size="80824">
-      <assemblyIdentity name="Requisición de Compras" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Requisición de Compras.exe" size="81336">
+      <assemblyIdentity name="Requisición de Compras" version="5.1.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VraTzP2wZoY7h0RFP0tNglkiHxa/LPZsBC5f5+SjwNU=</dsig:DigestValue>
+        <dsig:DigestValue>OtjzaDxRJ62HJpFAeqFn5C6HkbkT9m5rxOHxlzbszgI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

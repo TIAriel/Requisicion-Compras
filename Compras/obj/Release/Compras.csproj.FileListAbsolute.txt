@@ -1,3 +1,5 @@
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Requisición de Compras.exe.manifest
+C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Requisición de Compras.application
 C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Requisición de Compras.exe
 C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Requisición de Compras.pdb
 C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Entidades.dll
@@ -33,10 +35,8 @@ C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.FrmUsuarios.resources
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.Properties.Resources.resources
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.csproj.GenerateResource.cache
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.csproj.CoreCompileInputs.cache
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Requisición de Compras.exe.manifest
+C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Requisición de Compras.application
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Compras.csproj.CopyComplete
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Requisición de Compras.exe
 C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Requisición de Compras.pdb
-C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Requisición de Compras.exe.manifest
-C:\Users\GS-TI\Desktop\Compras\Compras\bin\Release\Requisición de Compras.application
-C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Requisición de Compras.exe.manifest
-C:\Users\GS-TI\Desktop\Compras\Compras\obj\Release\Requisición de Compras.application
